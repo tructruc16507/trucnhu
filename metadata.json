@@ -1,0 +1,5 @@
+{
+  "name": "Remix: Hệ thống Tính Điểm Rèn Luyện Sinh Viên",
+  "description": "Ứng dụng tính điểm rèn luyện sinh viên theo mẫu chuẩn các trường đại học Việt Nam, hỗ trợ tự động tính toán và xuất báo cáo.",
+  "requestFramePermissions": []
+}
